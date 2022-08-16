@@ -1,0 +1,5 @@
+build/
+dist/
+.vscode/
+.cache/
+npm-debug.log
