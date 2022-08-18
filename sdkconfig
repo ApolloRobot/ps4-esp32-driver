@@ -131,7 +131,6 @@ CONFIG_PARTITION_TABLE_MD5=y
 # Example Configuration
 #
 CONFIG_BROKER_URL="mqtt://mno:81525782@broker.mnoiot.com:1883"
-#使用我提供的broker
 # end of Example Configuration
 
 #
@@ -141,9 +140,7 @@ CONFIG_EXAMPLE_GPIO_RANGE_MIN=0
 CONFIG_EXAMPLE_GPIO_RANGE_MAX=33
 CONFIG_EXAMPLE_CONNECT_WIFI=y
 CONFIG_EXAMPLE_WIFI_SSID="yourssid"
-#改为你手机热点的名称
 CONFIG_EXAMPLE_WIFI_PASSWORD="yourpassword"
-#改为你手机热点的密码，方便去户外操作
 # CONFIG_EXAMPLE_WIFI_SCAN_METHOD_FAST is not set
 CONFIG_EXAMPLE_WIFI_SCAN_METHOD_ALL_CHANNEL=y
 
