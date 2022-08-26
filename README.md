@@ -1,3 +1,6 @@
+
+QQ交流群：785357955
+
 # ESP-MQTT sample application
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
